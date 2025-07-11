@@ -292,15 +292,16 @@ const projects = {
         live: "https://raw.githack.com/abhishek2165/shreenath-pooja-store-website/refs/heads/main/index.html"
     },
     2: {
-        title: "Space Information Website",
+        title: "3D Space System",
         images: [
-            "https://via.placeholder.com/800x500?text=Space+Website+1",
-            "https://via.placeholder.com/800x500?text=Space+Website+2"
+            "Screenshot 2025-07-11 122720.png",
+            "Screenshot 2025-07-11 123142.png",
+            "Screenshot 2025-07-11 123159.png"
         ],
-        description: "Developed a detailed website showcasing information about planets in space, providing users with a clean and interactive interface to explore planetary details dynamically. Displayed detailed facts and high-quality images for each planet using Bootstrap cards for structured presentation. Implemented smooth animations and transitions for better user engagement.",
-        technologies: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-        github: "https://github.com/yourusername/space-info-website",
-        live: null // No live link for this project
+        description: "This space visualization was designed to provide an interactive learning experience using real-time 3D rendering and smooth UI components.",
+        technologies: ["HTML", "CSS", "JavaScript", "Three.js"],
+        github: "https://github.com/abhishek2165/3D-SolarSystme",
+        live: "https://raw.githack.com/abhishek2165/3D-SolarSystme/refs/heads/main/index.html" 
     }
 };
 
