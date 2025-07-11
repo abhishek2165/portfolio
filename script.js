@@ -291,6 +291,7 @@ const projects = {
         github: "https://github.com/abhishek2165/shreenath-pooja-store-website",
         live: "https://raw.githack.com/abhishek2165/shreenath-pooja-store-website/refs/heads/main/index.html"
     },
+    
     2: {
         title: "3D Space System",
         images: [
